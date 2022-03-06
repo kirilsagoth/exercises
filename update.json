@@ -1,7 +1,6 @@
 {
   "latestVersion": "1.9.6",
+  "latestVersionCode": "2",
   "url": "https://github.com/kirilsagoth/exercises/tree/master/Releases",
-  "releaseNotes": [
-    "- First evolution"
-  ]
+  "releaseNotes": ["v1.2","- New Scanner Scenario", "- Bug Fixes"]
 }
